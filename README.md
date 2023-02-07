@@ -20,7 +20,7 @@ Learning, and Blockchain.
 **Employment History**
 - 
 
-#### Application Developer at _The Muse_ - Remote
+#### Senior Software Engineer at _OpenVault LLC_ - Remote
 February 2023 --- Present_
 
 #### Application Developer at _The Muse_ - Remote
