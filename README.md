@@ -3,7 +3,7 @@
 **Profile**
 -
 Experienced Python Developer adept in the design, installation, testing and maintenance
-of software systems, parsers, and APIs. Seeking opportunities in FinTech, Travel, Machine
+of software systems, parsers, and APIs. Open to opportunities in FinTech, Travel, Machine
 Learning, and Blockchain.
 
 **Skills**
@@ -21,7 +21,10 @@ Learning, and Blockchain.
 - 
 
 #### Application Developer at _The Muse_ - Remote
-_January 2020 --- Present_
+February 2023 --- Present_
+
+#### Application Developer at _The Muse_ - Remote
+_January 2020 --- February 2023_
 - Increased job applications by implementing updates to the data being provided to Google.
 - Enhanced discoverability by implementing advanced filters in the job search.
 - Aligned with accessibility goals by implementing enhancements for ADA compliance.
