@@ -3,7 +3,7 @@
 **Senior Software Engineer | Backend & Full-Stack Systems**  
 Python · Django · FastAPI · PostgreSQL · React · TypeScript
 
-[Portfolio](https://richardmiddleton.dev) · [LinkedIn](https://www.linkedin.com/in/jamahlmiddleton/) · [Public repositories](https://github.com/Jammidd?tab=repositories)
+[Portfolio](https://richardmiddleton.dev) · [LinkedIn](https://www.linkedin.com/in/rmiddleton/) · [Public repositories](https://github.com/Jammidd?tab=repositories)
 
 I build software for the messy parts of real businesses: aging systems that need careful modernization, integrations that must survive failures, data that needs to stay trustworthy, and user experiences that have to make complicated workflows feel simple.
 
