@@ -50,4 +50,4 @@ Most of my professional work lives in private company repositories. These are pu
 
 I'm interested in **fully remote senior, lead, and hands-on staff engineering work**, especially with teams that value clear communication, ownership, and thoughtful engineering decisions.
 
-**[Explore my portfolio](https://richardmiddleton.dev)** · **[Connect on LinkedIn](https://www.linkedin.com/in/jamahlmiddleton/)**
+**[Explore my portfolio](https://richardmiddleton.dev)** · **[Connect on LinkedIn](https://www.linkedin.com/in/rmiddleton/)**
