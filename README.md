@@ -1,63 +1,53 @@
 # Richard Middleton
 
-**Profile**
--
-Experienced Python Developer adept in the design, installation, testing and maintenance
-of software systems, parsers, and APIs. Open to opportunities in FinTech, Travel, Machine
-Learning, and Blockchain.
+**Senior Software Engineer | Backend & Full-Stack Systems**  
+Python · Django · FastAPI · PostgreSQL · React · TypeScript
 
-**Skills**
--
-| Backend | Frontend | Tools |
-|--|--|--|
-| Python | VueJS | Docker |
-| Django | React | AWS |
-| PostgreSQL | Angular | Google Cloud |
-| REST API | Cordova / Phonegap | Digital Ocean |
-| GraphQL | JavaScript | CI/CD |
+[Portfolio](https://richardmiddleton.dev) · [LinkedIn](https://www.linkedin.com/in/rmiddleton/) · [Public repositories](https://github.com/Jammidd?tab=repositories)
 
+I build software for the messy parts of real businesses: aging systems that need careful modernization, integrations that must survive failures, data that needs to stay trustworthy, and user experiences that have to make complicated workflows feel simple.
 
-**Employment History**
-- 
+My strongest work has been in **Python-backed systems, search and data pipelines, enterprise integrations, experimentation infrastructure, and full-stack product development**.
 
-#### Senior Software Engineer at _OpenVault LLC_ - Remote
-February 2023 --- Present_
+## Engineering experience
 
-#### Application Developer at _The Muse_ - Remote
-_January 2020 --- February 2023_
-- Increased job applications by implementing updates to the data being provided to Google.
-- Enhanced discoverability by implementing advanced filters in the job search.
-- Aligned with accessibility goals by implementing enhancements for ADA compliance.
-- Provided the capability to conduct AB testing by creating an experimentation framework that works with the unique infrastructure.
-- Maintained parity with existing systems by creating migration scripts to transition text data to structured data.
-- Monitored search engine performance by creating a script to verify the Google indexation status of provided URLs.
+| Area | Selected work |
+| --- | --- |
+| **Search, SEO & experimentation** | At **The Muse**, built an experimentation framework, improved job-search filtering, worked on Google job-discovery data and structured content migrations, and created indexation verification tooling. |
+| **Identity, integrations & reliability** | At **OpenVault**, worked on Keycloak/LDAP single sign-on, geolocation ingestion with retries and deduplication, and investigation of a CMTS firmware regression. |
+| **APIs & internal tools** | At **Recorded Future**, built a FastAPI-based service for logo assets and React interfaces supporting internal workflows. |
+| **End-to-end ownership** | Through **Nomadicode** and independent products, work across requirements, system design, implementation, deployment, and maintenance. |
 
-#### Founder / Developer at _Nomadicode LLC_ - Remote
-_February 2020 --- Present_
-- Increased profitability by creating responsive website for the Bible Rescue non-profit.
-- Enhanced engagement by implementing an alert system to regain previous visitors.
-- Managed a project and stakeholders with frequent updates and active participation in the development process.
+## What I bring to a team
 
-#### Lead Web Developer at _Utah Airways_ - Ogden, UT
-_March 2018 --- September 2018_
-- Opened a revenue stream by designing a system to accept international investments.
+- **Backend depth:** API design, PostgreSQL data modeling and query performance, asynchronous work, integrations, migrations, and failure recovery.
+- **Full-stack judgment:** React and TypeScript interfaces designed around real workflows—not just happy-path screens.
+- **Production pragmatism:** Diagnosing regressions, modernizing existing systems incrementally, adding observability and tests, and balancing shipping speed with long-term maintainability.
+- **Ownership:** Comfortable moving between product questions, architecture, hands-on engineering, and operations.
 
-#### Web Developer at _Rent Dynamics_ - Logan, UT
-_May 2016 --- December 2017_
-- Increased outreach ability by creating a system to send marketing emails with custom industry specific filters.
--  Enhanced security of personally identifiable information (PII) by analyzing the system for security flaws and implementing appropriate updates.
-- Improved efficiency and scalability by designing a system to automate manual reports to credit bureaus.
+## Public code & demos
 
-**Links**
--
+Most of my professional work lives in private company repositories. These are public examples of the kinds of problems and technologies I work with:
 
-- LinkedIn: [https://linkedin.com/in/jamahlmiddleton](https://linkedin.com/in/jamahlmiddleton)
-- Portfolio: [https://richardmiddleton.dev](https://richardmiddleton.dev)
-- Github: [https://github.com/Jammidd](https://richardmiddleton.dev)
-- Github (Business Projects): [https://github.com/Nomadicode](https://richardmiddleton.dev)
+| Repository | What it demonstrates |
+| --- | --- |
+| [**FastAPI backend template**](https://github.com/Jammidd/fastapi_template) | Modular Python API structure, asynchronous PostgreSQL access, and a testing workflow. |
+| [**SimplyAB**](https://github.com/Jammidd/SimplyAB) | A lightweight JavaScript experimentation framework with configurable variants and lifecycle hooks. |
+| [**SEO indexation verifier**](https://github.com/Jammidd/seo-indexation-verifier) | Python tooling for checking whether URLs appear in Google search results. |
+| [**Personal portfolio**](https://github.com/Jammidd/portfolio) | Bilingual Nuxt application with locale-aware metadata, sitemaps, and Cloudflare Workers deployment. |
 
-**Languages**
--
+**Portfolio deployment**  
+[![Deploy to Cloudflare Workers](https://github.com/Jammidd/portfolio/actions/workflows/deploy-cloudflare.yml/badge.svg?branch=main)](https://github.com/Jammidd/portfolio/actions/workflows/deploy-cloudflare.yml)
 
-- English (Native)
-- Spanish (Functional B1)
+## Technical toolkit
+
+**Backend & data:** Python, Django, FastAPI, PostgreSQL, Redis, Elasticsearch, REST, GraphQL  
+**Frontend:** React, TypeScript, Next.js, JavaScript, Vue, Angular  
+**Infrastructure & delivery:** Docker, GitHub Actions, Azure DevOps, AWS, Cloudflare, DigitalOcean  
+**Engineering focus:** System integration, data integrity, testing, CI/CD, SEO infrastructure, developer tooling
+
+---
+
+I'm interested in **fully remote senior, lead, and hands-on staff engineering work**, especially with teams that value clear communication, ownership, and thoughtful engineering decisions.
+
+**[Explore my portfolio](https://richardmiddleton.dev)** · **[Connect on LinkedIn](https://www.linkedin.com/in/jamahlmiddleton/)**
